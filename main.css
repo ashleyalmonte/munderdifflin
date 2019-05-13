@@ -1,38 +1,37 @@
 body {
   background-image: url("https://previews.123rf.com/images/manopjk/manopjk1501/manopjk150100032/36008303-comic-book-speech-bubble-pop-art-background-vector-illustration.jpg");
 }
-/* Style the navigation bar */
+
+.navbar img {
+  height: 5%;
+
+}
+
 .navbar {
   width: 100%;
   background-color: #555;
   overflow: auto;
 }
 
-/* Navbar links */
 .navbar a {
-  float: left;
   text-align: center;
   padding: 12px;
-  color: white;
+  color: red;
   text-decoration: none;
   font-size: 17px;
 }
 
-/* Navbar links on mouse-over */
+
 .navbar a:hover {
   background-color:black;
 }
 
-/* Current/active navbar link */
+
 .active {
   background-color: #6699ff;
 }
 
-@media screen and (max-width: 500px) {
-  .navbar a {
-    float: none;
-    display: block;
-  }
+
 }
 #footer {
   padding-bottom: center;
