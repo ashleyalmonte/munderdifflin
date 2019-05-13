@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://previews.123rf.com/images/manopjk/manopjk1501/manopjk150100032/36008303-comic-book-speech-bubble-pop-art-background-vector-illustration.jpg");
+  background-image: url("https://thumbs.dreamstime.com/z/job-search-12604696.jpg");
 }
 
 .navbar img {
@@ -8,12 +8,12 @@ body {
 }
 
 .navbar {
-  width: 100%;
-  background-color: #555;
+  width: 33%;
+  background-color: #f7f9fc;
   overflow: auto;
 }
 
-.navbar a {
+  .navbar a {
   text-align: center;
   padding: 12px;
   color: red;
@@ -22,21 +22,24 @@ body {
 }
 
 
-.navbar a:hover {
+  .navbar a:hover {
   background-color:black;
 }
 
 
-.active {
-  background-color: #6699ff;
+  .active {
+  background-color: #black;
 }
 
 
 }
-#footer {
+  #footer {
   padding-bottom: center;
   font-family: monospace;
   padding:100px;
 }
+
+  .Search {
+text-align: center;
 
 }
