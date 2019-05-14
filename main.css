@@ -3,22 +3,39 @@ body {
 }
 
 .navbar img {
-  height: 5%;
+  height: 0.4px%;
+ position: relative;
+ text-align: center;
 
 }
 
 .navbar {
-  width: 33%;
-  background-color: #f7f9fc;
+  width: 100%;
+  background-color: transparent;
   overflow: auto;
+  height: 0.5%;
+  position: 100px 100px / 50px 50px;
+  text-align: center;
+  font-size: 26px;
+  font-size: bold;
 }
+
+   .paragraph {
+  font-size: 25px;
+  font-family: cursive;
+  color: black;
+  text-align:right;
+}
+
 
   .navbar a {
   text-align: center;
-  padding: 12px;
+  padding: 14px 14px;
   color: red;
   text-decoration: none;
   font-size: 17px;
+  font-style: center;
+
 }
 
 
@@ -41,5 +58,16 @@ body {
 
   .Search {
 text-align: center;
+width: 100%;
+height:
+margin: 0 auto;
+display: inline-center;
 
+}
+  .search {
+  text-align: center;
+  padding-left: 40px;
+
+
+}
 }
