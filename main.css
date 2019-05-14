@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://thumbs.dreamstime.com/z/job-search-12604696.jpg");
+  background-image: url("https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg");
 }
 
 .navbar img {
@@ -31,7 +31,7 @@ body {
   .navbar a {
   text-align: center;
   padding: 14px 14px;
-  color: red;
+  color: white;
   text-decoration: none;
   font-size: 17px;
   font-style: center;
@@ -50,7 +50,7 @@ body {
 
 
 }
-  #footer {
+  .footer {
   padding-bottom: center;
   font-family: monospace;
   padding:100px;
@@ -70,6 +70,13 @@ display: inline-center;
 
 
 }
+  .columns {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  padding: 50px 50px / 40px 40px;
+  image-orientation: center;
+  
 
 
 }
